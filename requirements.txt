@@ -1,0 +1,32 @@
+# LangChain
+langchain
+langchain-community
+langchain-core
+
+# Gemini
+langchain-google-genai
+
+# OpenAI support
+langchain-openai
+
+# Tavily
+tavily-python
+
+# Streamlit
+streamlit
+
+# HTTP / Web scraping
+requests
+beautifulsoup4
+readability-lxml
+trafilatura
+lxml
+
+# Environment variables
+python-dotenv
+
+# SSL certificates
+certifi
+
+# Logging
+rich
